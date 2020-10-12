@@ -21,4 +21,3 @@ Halaman untuk mengolah data user yang dapat menggunakan aplikasi.
 7. Ubah Password,
 Halaman untuk mengubah password user.
 
-demo : www.indrasatya.com
