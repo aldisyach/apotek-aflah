@@ -1,0 +1,3 @@
+laporan 
+
+   $line = fgetcsv($handle); if (null != $line && count($line)!=2) { continue; }

@@ -1,0 +1,8 @@
+-------------------DELETE----------------------------
+BEGIN
+ UPDATE is_obat
+ SET stok = stok - OLD.jumlah_masuk
+ WHERE
+ kode_obat = OLD.kode_obat;
+ END
+-----------------------------------------------------
